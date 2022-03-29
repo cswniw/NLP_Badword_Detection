@@ -1,0 +1,1 @@
+soynlp와 google sentencepiece 패키지 사용 시 단어집합 구성을 위한 텍스트파일로 용량이 매우 커서 대체함.
