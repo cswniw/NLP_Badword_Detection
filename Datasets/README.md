@@ -1,7 +1,7 @@
 ## concat_train_test_datasets : 학습-검증 데이터셋
 ## concat_evaluation_datasets : 평가 데이터셋
 ## KoGPT_chatbot_10000 :  챗봇 학습 데이터셋
-## Labeling Guideline : 댓글 데이터 라벨링 분류 기준 가이드라인
+## 레이블링 분류 기준 : 댓글 데이터 분류 가이드라인
 
 ##
 ## 데이터 출처
