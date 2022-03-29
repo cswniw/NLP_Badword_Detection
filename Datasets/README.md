@@ -2,9 +2,9 @@
 ## concat_evaluation_datasets : 평가 데이터셋
 ## KoGPT_chatbot_10000 :  챗봇 학습 데이터셋
 ## 레이블링 분류 기준 : 댓글 데이터 분류 가이드라인
+## soynlp_sentencepiece_datasets : soynlp와 google sentencepiece 전처리패키지 사용 시 단어집합 구성을 위한 텍스트 파일
 
-##
-## 데이터 출처
+# 데이터 출처
 
 ## 직접 수집 - 성인 익명게시판, 직접 생성
 ## Ai HUB - 문장의 욕설 여부를 분류한 한글 데이터셋
